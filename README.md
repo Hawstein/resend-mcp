@@ -32,15 +32,15 @@ A MCP server for Resend API. Let LLMs compose and send emails for you.
 
 ## Installation
 
-### Using [ClaudeMind](https://claudemind.com/) (recommended)
+### Using [Clinde](https://clinde.ai/) (recommended)
 
-The easiest way to use Resend MCP Server is through the ClaudeMind desktop app. Simply download and install ClaudeMind, then:
+The easiest way to use Resend MCP Server is through the Clinde desktop app. Simply download and install Clinde, then:
 
-1. Open the ClaudeMind app
+1. Open the Clinde app
 2. Navigate to the Servers page
 3. Find resend-mcp and click Install
 
-That's it! No technical knowledge required - ClaudeMind handles all the installation and configuration for you seamlessly.
+That's it! No technical knowledge required - Clinde handles all the installation and configuration for you seamlessly.
 
 ### Using Claude Desktop
 
