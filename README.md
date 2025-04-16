@@ -2,6 +2,10 @@
 
 A MCP server for Resend API. Let LLMs compose and send emails for you.
 
+<a href="https://glama.ai/mcp/servers/@Hawstein/resend-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Hawstein/resend-mcp/badge" alt="Server Resend MCP server" />
+</a>
+
 ## Environment Variables
 
 - `RESEND_API_KEY` (string, required): Your Resend API key
@@ -64,7 +68,6 @@ Add this to your `claude_desktop_config.json`:
   }
 }
 ```
-
 
 ## License
 
