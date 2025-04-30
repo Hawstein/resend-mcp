@@ -9,6 +9,8 @@ import {
  } from "@modelcontextprotocol/sdk/types.js";
 import { Resend } from "resend";
 import { readFileSync, existsSync } from "fs";
+import dotenv from "dotenv";
+dotenv.config();
 
 // Get API key from environment variable
 const RESEND_API_KEY = process.env.RESEND_API_KEY!;
